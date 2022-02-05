@@ -13,7 +13,7 @@ include /etc/ld.so.conf.d/*.conf
 
 ```sh
 $ cat /etc/ld.so.conf.d/*.conf
-usr/lib/x86_64-linux-gnu/libfakeroot                                             
+/usr/lib/x86_64-linux-gnu/libfakeroot                                             
 # libc default configuration
 /usr/local/lib$
 # Multiarch support
